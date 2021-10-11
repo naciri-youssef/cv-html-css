@@ -4,8 +4,10 @@
 }
 .test1{
 
-    width: 300px;
+    border-radius: 999em;
     height: 300px;
+    width: 300px;	
+    margin: 0;
 }
 
 .test2{
